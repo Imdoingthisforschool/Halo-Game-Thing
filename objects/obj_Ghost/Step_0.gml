@@ -22,7 +22,11 @@ if (hpg=0)
 	room_goto(rm_ded)
 }
 //etc
-if (cooldown>=1)
+if (cooldown2>=1)
 {
-	
+	sprite_index=spr_Ghost_hit
+}
+if (cooldown2<=1)
+{
+	sprite_index=spr_Ghost
 }
