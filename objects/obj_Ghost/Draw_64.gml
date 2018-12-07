@@ -1,3 +1,6 @@
 draw_set_font(fnt_score)
 draw_text(5,5,"Health:")
 draw_text(150,5,hpg)
+draw_set_font(fnt_score)
+draw_text(5,50,"Cooldown:")
+draw_text(300,50,obj_Ghost.cooldown3)
