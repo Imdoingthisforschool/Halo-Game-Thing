@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "c4080384-c6fc-49c1-afd1-4f71431ba9af",
+            "Value": {
+                "id": "36f2bfe0-5422-4147-b5c0-a32135e19c9d",
+                "resourcePath": "objects\\obj_overheated\\obj_overheated.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "4b17297f-503d-42e2-b94c-5116b8c340b7",
